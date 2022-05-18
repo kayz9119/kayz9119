@@ -1,17 +1,14 @@
-### Hi there 👋
+# Kerem Arslantürk 👋
 
-<!--
-**kayz9119/kayz9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width="24" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"  />
+<img width="24" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"  />
+<img width="24" src="https://unpkg.com/simple-icons@v6/icons/mailgun.svg" align="left"  />
+[<img width="24" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
+<!-- 
+<img align="right" style="float:right; width: 60%" src="https://github-readme-stats.vercel.app/api?username=kayz9119&show_icons=true&icon_color=278ECF&text_color=718096&bg_color=f7f7f7&hide_title=true" /> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kayz9119&show_icons=true&icon_color=278ECF&text_color=718096&bg_color=f7f7f7&hide_title=true" />
+[instagram]: https://www.instagram.com/kayz9119
+[twitter]: https://www.twitter.com/kayzmonroe
+[mail]: mail:keremarslntrkk@hotmail.com
+[linkedin]: https://www.linkedin.com/keremarslntrkk
