@@ -29,8 +29,11 @@
 <img width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 
 #
+
 <hr />
+
 #
+
 <details>
     <summary>:bulb: Github Stats</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=kayz9119&hide=stars&theme=tokyonight&show_icons=true&bg_color=140f47&title_color=9c95e6&icon_color=9c95e6&text_color=6c5ff5">
