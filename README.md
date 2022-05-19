@@ -26,7 +26,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kayz9119&hide=stars&theme=tokyonight&show_icons=true&bg_color=140f47&title_color=9c95e6&icon_color=9c95e6&text_color=6c5ff5">
 </details>
 
-#
 <details>
     <summary>:bulb: Most Used Languages</summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayz9119&layout=compact">
