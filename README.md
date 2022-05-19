@@ -1,4 +1,5 @@
 ## Hi there, I'm Kerem :v:
+##### Web Applications, Web Designs, Desktop Applications, 2D and 3D Games, Node.JS, PHP, JavaScript... My brain is fried... It's all too confusing!
 # JavaScript / PHP Developer
 #### Coffee :coffee: is how I keep up with `<code/>`
 
