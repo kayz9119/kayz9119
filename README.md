@@ -7,7 +7,7 @@
 <a href="https://www.twitter.com/kayzmonroe"><img width="24" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"  /></a>
 <a href="mail:keremarslntrkk@hotmail.com"><img width="24" src="https://unpkg.com/simple-icons@v6/icons/mailgun.svg" align="left"  /></a>
 <a href="https://www.linkedin.com/keremarslntrkk"><img width="24" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" /></a>
-
+<br/>
 # Tech I use
 <img width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img width="32" align="left" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
