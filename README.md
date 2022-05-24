@@ -4,7 +4,7 @@ Web Applications, Web Designs, Desktop Applications, 2D and 3D Games, Node.JS, P
 
 # JavaScript / PHP Developer
 
-#### Coffee :coffee: is how I keep up with `<code/>`
+Coffee :coffee: is how I keep up with `<code/>`
 
 ### Reach out to me:
 
